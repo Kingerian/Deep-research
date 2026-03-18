@@ -1,0 +1,5 @@
+{
+  "name": "Deep Research Orchestrator",
+  "description": "A multi-source deep research workflow tool that synthesizes findings into a high-quality, decision-useful report using Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
